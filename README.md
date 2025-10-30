@@ -111,8 +111,5 @@ Sou apaixonado por transformar dados em **insights estratégicos**, utilizando t
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" 
 />
 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
