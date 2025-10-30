@@ -4,7 +4,7 @@
 🎓 **Pós-graduado em Análise de Dados e Ciência de Dados** pela *Anhanguera Educacional*  
 📚 **Atualmente cursando Formação em Ciência de Dados** pela *Faculdade Estácio*  
 
-💡 Estou em **transição de carreira para a área de Dados**, buscando oportunidades como **Analista de Dados**, **Cientista de Dados** ou **Engenheiro de Dados**.  
+💡 Estou em **transição de carreira para a área de Dados**, buscando oportunidades como **Analista de Dados**, **Cientista de Dados**.  
 Sou apaixonado por transformar dados em **insights estratégicos**, utilizando técnicas de **análise, visualização e machine learning** para gerar valor real para negócios.  
 
 ---
